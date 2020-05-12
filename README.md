@@ -1,6 +1,6 @@
 Validação de formularios usando UNFORM, YUP  e STYLEDCOMPONENTS
 
-## Get Started:
+## Para subir:
 
 `yarn ou yarn install ou npm install`<br />
 `yarn start ou npm start`
