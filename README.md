@@ -2,7 +2,7 @@ Validação de formularios usando UNFORM, YUP  e STYLEDCOMPONENTS
 
 ## Para subir:
 
-`yarn ou yarn install ou npm install`<br />
+`yarn install ou npm install`<br />
 `yarn start ou npm start`
 
 Acessar em http://localhost:3000 no seu browser
