@@ -1,4 +1,9 @@
-Validação de formularios usando UNFORM, YUP  e STYLEDCOMPONENTS
+# Validação de formularios usando UNFORM, YUP  e STYLEDCOMPONENTS
+
+## Preview
+![](https://github.com/augusto-kuki/unform-reactjs-example/blob/master/src/assets/unform-reactjs-example.gif)
+
+
 
 ## Para subir:
 
@@ -12,3 +17,4 @@ Acessar em http://localhost:3000 no seu browser
 **Unform** (https://unform.dev/);<br />
 **StyledComponents** (https://styled-components.com/);<br />
 **Yup** (https://github.com/jquense/yup);<br />
+
