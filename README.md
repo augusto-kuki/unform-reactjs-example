@@ -1,4 +1,4 @@
-Projeto de Login e cadastro utilizando as bibliotecas Unform, Yup e StyledComponents
+Validação de formularios usando UNFORM, YUP  e STYLEDCOMPONENTS
 
 ## Get Started:
 
