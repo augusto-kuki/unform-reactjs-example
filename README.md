@@ -9,6 +9,6 @@ Acessar em http://localhost:3000 no seu browser
 
 ## Bibliotecas usadas:
 
-Unform (https://unform.dev/);<br />
-StyledComponents (https://styled-components.com/);<br />
-Yup (https://github.com/jquense/yup);<br />
+**Unform** (https://unform.dev/);<br />
+**StyledComponents** (https://styled-components.com/);<br />
+**Yup** (https://github.com/jquense/yup);<br />
